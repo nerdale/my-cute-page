@@ -1,0 +1,78 @@
+body{
+	font-family: "Oswald";
+}
+
+/*Estilos menú navegación*/
+.menu li{
+	list-style: none;
+	display: inline-block;
+	margin: 15px 5px;
+}
+.menu li a{
+	text-decoration: none;
+	color: black;
+	margin-right: 50px;
+}
+.menu ul{
+	text-align: center;
+}
+/* Estilos main*/
+.main{
+	background-image: url(../images/background.jpg);
+	background-size: 150%;
+	height: 480px;
+}
+.main img{
+	margin: 100px 0 0 580px;
+}
+h1, h2{
+	text-align: center;
+	color: white;
+}
+/* Estilos about me */
+.about{
+	background-image: url(../images/tile1.png);
+}
+h3{
+	text-align: center;
+	margin-top: 50px;
+	color: #9F3D73;
+}
+.perfil{
+	border: 1px solid black;
+	margin: 40px 0;
+	padding: 5px;	
+}
+.sobremidet{
+	margin-top: 40px;
+	font-size: 13px;
+	margin-left: 40px;
+	font-family: arial;
+}
+/* Estilos favoritos */
+.fav{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.foto{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border: 2px solid #9F3D73;
+	padding: 5px;
+	background-size: 100%;
+	margin-right: 40px;
+	margin-bottom: 60px;
+}
+/* Estilos footer */
+.footer{
+	background-image: url(../images/tile2.png);
+	padding-top: 30px;
+}
+.social{
+	margin: 40px 50px 40px 0;
+
+}
+.boxsocial{
+	margin-left: 380px;
+}
