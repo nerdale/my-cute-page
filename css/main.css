@@ -72,11 +72,9 @@ h3{
 	background-image: url(../images/tile2.png);
 	padding-top: 30px;
 }
-
 .social{
-	width: 30%;
-	margin: 30px 10px 30px 0;
+	margin: 30px 20px 30px 0;
 }
-.redes{
-	margin: 0 410px;
+.redes {	
+	margin-left: 230px;
 }
