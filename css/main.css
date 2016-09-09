@@ -23,7 +23,10 @@ body{
 	height: 480px;
 }
 .main img{
-	margin: 100px 0 0 580px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 100px;
 }
 h1, h2{
 	text-align: center;
@@ -69,10 +72,11 @@ h3{
 	background-image: url(../images/tile2.png);
 	padding-top: 30px;
 }
-.social{
-	margin: 40px 50px 40px 0;
 
+.social{
+	width: 30%;
+	margin: 30px 10px 30px 0;
 }
-.boxsocial{
-	margin-left: 380px;
+.redes{
+	margin: 0 410px;
 }
